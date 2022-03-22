@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
+<title>Sweet Delight</title>
+
+<meta name="description" content="Sweet Delight"  /> 
+<meta name="keywords" content="Sweet Delight"  /> 
+
+<meta property="og:title" content="Sweet Delight" /> 
+<meta property="og:url" content="http://sweetdelight.eu/flexslider/fonts/flexslider-icon.woff" /> 
+<meta property='og:description' content='Sweet Delight' /> <meta property='og:image' content='http://sweetdelight.eu/face.jpg' /><meta name="author" content="Sweet Delight" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="https://sweetdelight.eu/favicon.ico" type="image/x-icon" />
+
+<script src="//code.jquery.com/jquery-1.11.1.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/screen.css?1647787793" />
+
+<script defer src="/flexslider/jquery.flexslider.js"></script>
+<link rel="stylesheet" type="text/css" href="/flexslider/flexslider.css" />
+
+<link rel="stylesheet" type="text/css" href="/font/1705-DRMWEP.css">
+
+<script type='text/javascript' src='/js/site.js?1647787793'></script>
+
+
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'analytics_storage': 'denied',
+  'personalization_storage': 'denied'
+});
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162077755-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162077755-1');
+</script>
+</head>
+
+<body>
+<section class='header' data-title='Sweet Delight'>
+<div class='header0'><div class='header1'>
+<h1 class='logo'><a href='/'><span>Sweet Delight</span></a></h1><a href='#menu' class='menubutt'></a><ul class='menu' id='menu'><li class='menuwith'><a href='/en/products' target='_top' id='menu11' class='' >Products</a><li class='menuwith'><a href='/en/production-quality' target='_top' id='menu2' class='' >Production & Quality</a><li class=''><a href='/en/about-us' target='_top' id='menu3' class='' >About us</a><li class='menuwith'><a href='/en/contact' target='_top' id='menu5' class='' >Contact</a><li class=''><a href='/en/carrer' target='_top' id='menu4' class='' >Kariéra</a></ul><div class='clear'></div>
+</div></div>
+</section>
+
+<!-- 0 -->
+
+<section class='kontakt obchodnipodminky1'>
+<h2>Stránka nebyla nalezena!</h2><p><strong>Je nám líto, ale požadovaná stránka na adrese http://sweetdelight.eu/flexslider/fonts/flexslider-icon.woff nebyla nalezena.</strong></p>
+<p>Pravděpodobně byla odstraněna, přemístěna nebo přejmenována, případně byl nesprávně zadán odkaz.<br />
+Ostatní uživatelé obvykle postupují takto:</p>
+<ul>
+<li>Zkontrolují správnost zadané adresy</li>
+<li>Přejdou na <a href='/'>úvodní stránku</a></li>
+<li>Použijí vyhledávání v horní části stránek</li>
+</ul>
+<br />
+<p>Pokud jste si jistí, že adresa má fungovat, napište prosím na <a href='mailto:sladek@logiq.cz?subject=Error 404 - sweetdelight.eu/flexslider/fonts/flexslider-icon.woff'>webmastera</a> a popište mu svůj problém.<br />
+Děkujeme.</p>
+</section><link rel='stylesheet' type='text/css' href='/css/cookies.css' />
+ <script type='text/javascript' src='/js/cookies.js'></script>
+ <div class='cookies cookiesanswer' id='cookies-short'>
+ <div class='cookies1'>We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. <br />
+By clicking “Accept”, you consent to the use of ALL the cookies. However you may visit Cookie Settings to provide a controlled consent.</div>
+ <div class='cookies2'>
+ <a href='#cookies-settings' id='cookies-settings'>Settings</a> 
+ <a href='#cookies-granted' id='cookies-granted'>Accept</a>  
+ </div>
+ <div class='cookies3'><a href='#cookies-denied' id='cookies-denied'>You can refuse consent here. </a></div>
+ </div><div class='cookiesdetail' id='cookies-detail'>
+ <div class='cookiesdetail0'></div>
+ <div class='cookiesdetail1'>
+ <a href='#cookies-close-detail' class='cookiesdetailclose'>&times;</a>
+ <div class='cookiesdetail11'> Cookie settings</div>
+  <div class='cookiesdetail12'><p>This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorised as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyse and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</p>
+</div>
+   <div class='cookiesdetail13'>
+   <a href='#tech_storage' class='cookieswitch cookieswitch1' id='butt_tech_storage'></a>
+   Necessary</div>
+   <div class='cookiesdetail14'><p>Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.</p>
+</div>
+   <div class='cookiesdetail15'>
+   <a href='#analytics_storage'  id='butt_analytics_storage' data-storage='analytics_storage' class='cookieswitch cookieswitch0 '></a>
+   Analytics </div>
+   <div class='cookiesdetail16'><p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.</p>
+</div>
+   <div class='cookiesdetail17'>
+   <a href='#personalization_storage' id='butt_personalization_storage'  data-storage='personalization_storage' class='cookieswitch cookieswitch0 '></a>
+   Performance</div>
+   <div class='cookiesdetail18'><p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p>
+</div>
+   <div class='cookiesdetail19'>
+   <a href='#ad_storage'  id='butt_ad_storage'  data-storage='ad_storage' class='cookieswitch cookieswitch0 '></a>
+   Advertisement </div>
+   <div class='cookiesdetail20'><p>Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customised ads.</p>
+</div>
+   <div class='cookiesdetail21'>
+   <a href='#cookies-granted-selected'  id='cookies-granted-selected'  class='cookiesdetail21'>I agree to the use of selected cookies </a>
+   <a href='#cookies-granted-all'  id='cookies-granted-all'  class='cookiesdetail22'>I agree to the use of all cookies</a>
+   <div class='clear'></div>
+   </div>
+ </div>
+ </div>
+
+
+
+</body>
+</html>
