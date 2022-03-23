@@ -310,7 +310,6 @@ a.scrolldown {
 .content50 {
 	height: 50px;
 }
-.orderhere{}
 .category li {
 	float: left;
 	width: 30%;
@@ -652,19 +651,11 @@ a.karierarealclose {
 .dorties p {
 	padding: 0 0 20px 0;
 }
-
-
-
-
-
 @media screen and (min-width: 0) and (max-width: 1280px) {
 a.scrolldown {
 	display: none;
 }
 }
-
-
-
 @media screen and (min-width: 0) and (max-width: 990px) {
 .txt {
 	padding: 35px 2.5%;
