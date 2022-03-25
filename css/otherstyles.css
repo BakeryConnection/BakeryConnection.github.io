@@ -4,3 +4,33 @@
     font-size: 2rem;
     position: relative;
 }
+.htobody{
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+.aboutusimg{
+    border-radius: 14px;
+}
+.logoimg{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding-top: 2rem;
+}
+.aboutustextarea{
+    width: 85%;
+    margin: auto;
+    padding-top: 2rem;
+    line-height: 1.5rem;
+}
+@media screen and (min-width: 800px) and (max-width: 2080px){
+    .logoimg{
+        width: 30%;
+        height: 30%;
+        margin: auto;
+    }
+    .aboutustextarea{
+        width: 50%;
+        line-height: 2rem;
+    }
+}

@@ -59,7 +59,7 @@ table {
 	clear: both;
 	height: 1px;
 	width: 100%;
-	overflow: hidden;
+	overflow: visible;
 }
 *:focus {
     outline: none;
@@ -212,7 +212,7 @@ a.search {
 	left: 0;
 	width: 100%;
 	max-height: 100%;
-	overflow: hidden;
+	overflow: ;
 }
 .intro img {
 	display: block;
@@ -677,9 +677,7 @@ a.scrolldown {
 
 
 @media screen and (min-width: 0) and (max-width: 850px) {
-.logo {
-	width: 200px;
-}
+
 .menu {
 	position: asbolute;
 	top: 100%;
