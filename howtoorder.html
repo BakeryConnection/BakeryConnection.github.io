@@ -16,9 +16,11 @@
 
 <link rel="stylesheet" type="text/css" href="css/font-1705-DRMWEP.css">
 
-<link rel="stylesheet" type="text/css" href="howtoorder.css">
+<link rel="stylesheet" type="text/css" href="css/howtoorder.css">
 
 <script type="text/javascript" src="js/js-site.js"></script>
+
+<script type="text/javascript" src="js/howtoorder.js" defer></script>
 </head>
 
 <body>
@@ -28,17 +30,37 @@
         </div></div>
         </section>
 <section class="intro ">
-    <h1 class="ordertxt">How To Order? Test</h1>
-        <p class="htobody">Looking to order our pastries? If so, Please contact: </p>
+    <h1 class="ordertxt">How To Order?</h1>
+       <center> <p class="htobody">Looking to order our pastries? If so, Please fill out this form: </p></center>
 
-    <form class="order">
+    <form class="order" name="order" id="order" onsubmit="return validateForm()">
         Name: <br>
         <input type="text" name="name" id="name"><br>
         Email: <br>
         <input type="email" name="email" id="email"><br>
-        What item would you like to purchase: <br>
-        <input type=""><br><br>
-        <input type="submit" name="submit" id="submit" placeholder="Confirm Shipment">
+        <label for="items">Select the item and amount you would you like to purchase:</label><br>
+        <input type="checkbox" id="cookie-1" name="items" value="Chocolate-Chip Cookies">
+        <label for="cookie-1">Chocolate-Chip Cookies</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        <input type="checkbox" id="cookie-2" name="items" value="Oatmeal Cookies">
+        <label for="cookie-2">Oatmeal Cookies</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        <input type="checkbox" id="cakeslices" name="items" value="Cake Slices">
+        <label for="cakeslices">Cake Slices</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        <input type="checkbox" id="gizzarda" name="items" value="Gizzarda">
+        <label for="gizzarda">Gizzarda</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        <input type="checkbox" id="pizza" name="items" value="Pizza">
+        <label for="pizza">Pizza</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        <input type="checkbox" id="donuts" name="items" value="Donuts">
+        <label for="donuts">Donuts</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Quantity:&nbsp;&nbsp;<input type="number"><br>
+
+        <input type="submit" name="submit" id="submit" value="Confirm Shipment">
+        
+    
     </form>
    <!--
     <p class="personname">(Insert Name Here)</p>
@@ -46,6 +68,8 @@
     <p class="phonenum">(1(234)567-8901)</p>
     <h1 class="or">OR</h1>
     -->
+
+    <center>You can also contact us via Instagram or What's App</center>
 </section>    
     
 </body>
