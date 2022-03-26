@@ -22,6 +22,22 @@
     margin: auto;
     padding-top: 2rem;
     line-height: 1.5rem;
+}.personname{
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+}
+.personpostion{
+    padding-top: 1rem;
+    padding-left: 2.5rem;
+}
+.phonenum{
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+.or{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 2rem;
 }
 @media screen and (min-width: 800px) and (max-width: 2080px){
     .logoimg{
@@ -33,4 +49,12 @@
         width: 50%;
         line-height: 2rem;
     }
+}
+.introt {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	max-height: 100%;
+	overflow: hidden ;
 }
