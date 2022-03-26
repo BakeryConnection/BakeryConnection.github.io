@@ -8,7 +8,6 @@ function additems(){
         //item.innerHTML += 'I want pizza';
         return false;
     }
-    
 }
 */
 function validateForm(){

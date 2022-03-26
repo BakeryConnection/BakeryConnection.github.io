@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width; initial-scale=1.0;">
 <title>Homepage | Bakery Connection</title>
 
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+      <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <link rel="shortcut icon" href="favicons/sweetdelight.eu-favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="./css/otherstyles.css">
 
@@ -37,28 +41,28 @@
 
     <form class="order" name="order" id="order" onsubmit="return validateForm()">
         Name: <br>
-        <input type="text" name="name" id="name"><br>
+        <input type="text" name="name" id="name"><br><br>
         Email: <br>
-        <input type="email" name="email" id="email"><br>
+        <input type="email" name="email" id="email"><br><br>
         <label for="items">Select the item and amount you would you like to purchase:</label><br>
         <input type="checkbox" id="cookie-1" name="items" value="Chocolate-Chip Cookies">
         <label for="cookie-1">Chocolate-Chip Cookies</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
         <input type="checkbox" id="cookie-2" name="items" value="Oatmeal Cookies">
         <label for="cookie-2">Oatmeal Cookies</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
         <input type="checkbox" id="cakeslices" name="items" value="Cake Slices">
         <label for="cakeslices">Cake Slices</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
         <input type="checkbox" id="gizzarda" name="items" value="Gizzarda">
         <label for="gizzarda">Gizzarda</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
         <input type="checkbox" id="pizza" name="items" value="Pizza">
         <label for="pizza">Pizza</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
         <input type="checkbox" id="donuts" name="items" value="Donuts">
         <label for="donuts">Donuts</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Quantity:&nbsp;&nbsp;<input type="number"><br>
+        Quantity:&nbsp;&nbsp;<input type="number" class="quan"><br>
 
         <input type="submit" name="submit" id="submit" value="Confirm Shipment">
         
@@ -71,7 +75,10 @@
     <h1 class="or">OR</h1>
     -->
 
-    <center>You can also contact us via Instagram or What's App</center>
+    <center>You can also contact us via Instagram or WhatsApp<br><br>
+    <a href="https://www.instagram.com/bakery.connection/" target="_blank"><i class="fab fa-instagram" id="insta">&nbsp;Instagram</i></a><br>
+    <p>WhatsApp Number: (876)353-4342</p>
+    </center>
 </section>    
     
 </body>

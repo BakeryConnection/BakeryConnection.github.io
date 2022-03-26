@@ -1,5 +1,47 @@
 .order{
     margin:50px 0px; 
     padding:0px;
-    text-align:center;
+    display: inline-block;
+    padding-left: 10%;;
+    font-size: large;
+}
+.order input[type="checkbox"]{
+    font-size: large;
+    border-radius: 1px;
+}
+.order input[type="text"]{
+    font-size: large;
+    border-radius: 5px;
+}
+.order input[type="email"]{
+    font-size: large;
+    border-radius: 5px;
+}
+#submit{
+        font-weight: 700;
+		font-size: 1em;
+		color: #111;
+		background: #fefefe;
+		box-shadow: 0px 4px 0px 0px #d26a60;
+		border-style: none;
+		padding: 5px 25px;
+		margin: 25px 0 15px 0;
+		position: relative;
+		display: inline-block;
+		transition: all .1s linear;
+        cursor: pointer;
+        border-radius: 5px;
+}
+#submit:active{
+    box-shadow: 0 2px 0 #d26a60;
+    transform: translateY(3px);
+    -webkit-transform: translateY(3px);
+    -ms-transform: translateY(3px);
+}
+.quan{
+    width: 35px;
+    font-size:medium;
+}
+#insta{
+
 }
