@@ -1,5 +1,6 @@
 .intro{
     overflow: visible;
+    scroll-behavior: smooth;
 }
 .order{
     margin:50px 0px; 
