@@ -1,3 +1,6 @@
+.intro{
+    overflow: visible;
+}
 .order{
     margin:50px 0px; 
     padding:0px;
@@ -41,7 +44,4 @@
 .quan{
     width: 35px;
     font-size:medium;
-}
-#insta{
-
 }
