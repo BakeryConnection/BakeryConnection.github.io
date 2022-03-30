@@ -41,7 +41,7 @@
        <center> <p class="htobody">Looking to order our pastries? If so, Please fill out this form: </p></center>
 
 
-    <form class="order" name="order" id="order" onsubmit="return validateForm()">
+    <form method="post" class="order" name="order" id="order" onsubmit="return validateForm()">
         Name: <br>
         <input type="text" name="name" id="name"><br><br>
         Email: <br>
@@ -84,6 +84,8 @@
     <p>WhatsApp Number: (876)353-4342</p>
     </center>
 </section>    
-    
+<script src="https://smtpjs.com/v3/smtp.js">
+</script>
+<script src="./js/mail.js"></script>
 </body>
 </html>

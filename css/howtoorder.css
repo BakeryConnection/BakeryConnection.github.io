@@ -8,6 +8,7 @@
     display: inline-block;
     padding-left: 10%;;
     font-size: large;
+    line-height: 2rem;
 }
 .order input[type="checkbox"]{
     font-size: large;
