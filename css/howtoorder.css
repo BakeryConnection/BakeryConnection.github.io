@@ -3,13 +3,17 @@
     scroll-behavior: smooth;
 }
 .stock, tr, th, td{
-    border: solid #9e0e0994 2px;
-    padding: 20px 10px 20px 10px;
+    border: solid #9e0e0994 0.13rem;
+    padding: 1.25rem 0.625rem 1.25rem 0.625rem;
     background-color: white;
     font-size: large;
 }
 .stock, tr, td{
-    padding: 15px 100px 15px 5px;
+    padding: 0.9rem 6.25rem 0.9rem 0.3rem;
+}
+.order{
+    margin-left: auto;
+  margin-right: auto;
 }
 .stock{
     margin-left: auto;
