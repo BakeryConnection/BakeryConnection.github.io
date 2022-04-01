@@ -10,6 +10,7 @@ function additems(){
     }
 }
 */
+/*
 function validateForm(){
     //var item = document.getElementById('item');
     //var name = document.getElementById('items').value;
@@ -20,3 +21,4 @@ function validateForm(){
         return false;
     }
 }
+*/
