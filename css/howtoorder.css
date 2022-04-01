@@ -6,6 +6,7 @@
     border: solid #9e0e0994 2px;
     padding: 20px 10px 20px 10px;
     background-color: white;
+    font-size: large;
 }
 .stock, tr, td{
     padding: 15px 100px 15px 5px;
