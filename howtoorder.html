@@ -78,11 +78,19 @@
 
     <form method="post" class="order" name="order" id="order" onsubmit="return validateForm()">
         Name: <br>
-        <input type="text" name="name" id="name"><br><br>
+        <input type="text" placeholder="John Doe" name="name" id="name"><br><br>
         Email: <br>
-        <input type="email" name="email" id="email"><br><br>
+        <input type="email" placeholder="johndoe@email.com" name="email" id="email"><br><br>
         Phone Number:<br>
-        <input type="text" name="phone" id="phone"><br><br>
+        <input type="text" placeholder="1(234)567-8901" name="phone" id="phone"><br><br>
+        Delivery Method:  <br>
+        <select name="" id="">
+            <option value="" name="Pickup">Pickup</option>
+            <option value="" name="Angelique">Angelique Drop-off</option>
+            <option value="" name="classroom">Classroom dropoff (please state)</option>
+        </select><br><br>
+        Write Order Here: <br>
+        <textarea name="" id="order" cols="30" placeholder="Example: '5 cupcakes to be delivered with Angelique'" rows=10></textarea><br>
         <!--<label for="items">Select the item and amount you would you like to purchase:</label><br>
         <input type="checkbox" id="cookie-1" name="items" value="Chocolate-Chip Cookies">
         <label for="cookie-1">Chocolate-Chip Cookies</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
