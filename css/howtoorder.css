@@ -3,8 +3,17 @@
     scroll-behavior: smooth;
 }
 .stock, tr, th, td{
-    border: solid black 2px;
-    
+    border: solid #9e0e0994 2px;
+    padding: 20px 10px 20px 10px;
+    background-color: white;
+}
+.stock, tr, td{
+    padding: 15px 100px 15px 5px;
+}
+.stock{
+    margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
 }
 .order{
     margin:50px 0px; 
