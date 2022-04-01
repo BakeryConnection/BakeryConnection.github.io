@@ -12,19 +12,17 @@
     padding: 0.9rem 6.25rem 0.9rem 0.3rem;
 }
 .order{
-    margin-left: auto;
-  margin-right: auto;
+
 }
 .stock{
     margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
+    margin-right: auto;
+    margin-top: 50px;
 }
 .order{
-    margin:auto; 
     padding:0px;
     display: inline-block;
-    padding-left: 10%;;
+ 
     font-size: large;
     line-height: 2rem;
 }
