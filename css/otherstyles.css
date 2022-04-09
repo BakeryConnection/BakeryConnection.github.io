@@ -65,3 +65,48 @@
 	max-height: 100%;
 	overflow: hidden ;
 }
+
+/*Trying to do popup*/
+.popup{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    overflow: hidden;
+    position: fixed;
+    z-index: 9000;
+    text-align: center;
+    display: none;
+}
+.poptoparea{
+    opacity: initial;
+    height: 3rem;
+    border-bottom: 2px solid black;
+    border-bottom: dotted;
+    text-align: center;
+}
+.thex{
+    height: 2rem;
+    width: 2rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    float: right;
+    cursor: pointer;
+}
+.popcontent{
+    width: 50%;
+    height: 75%;
+    background-color: #dc7f8e;
+    margin: auto;
+    margin-top: 5rem;
+    color:black ;
+    border-radius: 14px;
+    opacity: solid;
+}
+.popbody{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+/*Ends Here*/
