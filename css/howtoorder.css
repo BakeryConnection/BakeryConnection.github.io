@@ -63,3 +63,8 @@
 #insta{
     color: #9e0e0994;
 }
+@media screen and (min-width: 80px) and (max-width: 1080px){
+    .stock{
+        width: 75%;
+    }
+}
