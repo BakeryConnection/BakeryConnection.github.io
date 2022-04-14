@@ -93,7 +93,7 @@
     cursor: pointer;
 }
 .popcontent{
-    width: 50%;
+    width: 25%;
     height: 75%;
     background-color: #dc7f8e;
     margin: auto;
@@ -103,10 +103,23 @@
     opacity: solid;
 }
 .popbody{
-    background-color: white;
+    background-color: #dc7f8e;
+    background-image:url(../images/SnackAttackPoster.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%;
     border-bottom-left-radius: 14px;
     border-bottom-right-radius: 14px;
+}
+@media screen and (min-width: 80px) and (max-width: 1080px){
+    .popcontent{
+        width: 64%;
+        height: 64%;
+        margin-top: 1rem;
+    }
+    .popbody{
+        background-position: center;
+    }
 }
 /*Ends Here*/
