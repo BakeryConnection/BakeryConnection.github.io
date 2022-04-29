@@ -76,6 +76,7 @@
     z-index: 9000;
     text-align: center;
     display: none;
+    overflow: hidden;
 }
 .poptoparea{
     opacity: initial;
@@ -104,8 +105,8 @@
 }
 .popbody{
     background-color: #dc7f8e;
-    background-image:url(../images/SnackAttackPoster.jpeg);
-    background-size: contain;
+    background-image:url(../images/NewSnackImg.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
