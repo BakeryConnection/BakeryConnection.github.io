@@ -105,7 +105,7 @@
 }
 .popbody{
     background-color: #dc7f8e;
-    background-image:url(../images/NewSnackImg.jpeg);
+    background-image:url(../images/NewSnackAttackImage.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -126,3 +126,13 @@
     }
 }
 /*Ends Here*/
+/*Meet The team? lmaooo*/
+.jobdiv{
+    width: 10rem;
+    height: 5rem;
+    border-radius: 14px;
+    background-color: #fff;
+    margin: auto;
+    padding: 1rem;
+
+}

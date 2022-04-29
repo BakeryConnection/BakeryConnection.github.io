@@ -1,0 +1,39 @@
+
+.grid-container {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 30%  30% 30%; /*Make the grid smaller than the container*/
+    gap: 1rem;
+    padding: 1rem;
+  }
+.thegrid{
+    border-radius: 14px;
+}
+.personname{
+      font-size: 1.5rem;
+      text-align: left;
+      margin-top: -1rem;
+  }
+.jobtitle{
+    font-size: 1rem;
+    color: gray;
+    text-align: center;
+    padding-top: 1rem;
+}
+  
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  @media screen and (min-width: 80px) and (max-width: 1080px){
+      .grid-container{
+        grid-template-columns: 60%; /*Make the grid smaller than the container*/
+        
+      }
+      .intron{
+          padding-top: 5rem;
+      }
+  }
